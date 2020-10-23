@@ -1,1 +1,4 @@
-# CS4025Z-Assignment-1
+# CS4025Z Artificial Intelligence
+## Assignment 1: Search Algorithms
+
+All assignment details available at: http://ai.berkeley.edu/home.html
